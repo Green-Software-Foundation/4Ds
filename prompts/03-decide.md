@@ -243,11 +243,11 @@ Key formatting notes:
 - Each participant's vote is on a single line: name, vote
   (ENDORSE / CONSENT / OBJECT), then comments below
 - For participants who did not respond, note them as
-  "[no response — default consent]"
+  "[no response (default consent)]"
 - Use nested `>` quoting to show discussion threads around
   objections (email reply-style indentation)
 - Use the same participant letters consistently across all
   rounds
 - Never use real names or email addresses
 - Objections MUST include the objector's explanation of what
-  needs to change — "I object" alone is not sufficient
+  needs to change ("I object" alone is not sufficient)

@@ -1,4 +1,4 @@
-# Decide Activity — Section 1: Scope and Applicability
+# Decide Activity (Section 1: Scope and Applicability)
 
 ## Round 1
 
@@ -21,7 +21,7 @@ This captures the best of what we discussed. The screening tool solves the categ
 The definition covers our healthcare use cases well. "Outputs that influence organisational decisions or operations" is the right framing.
 
 **Participant C:** CONSENT
-Legally sound. I'd have preferred more precise language around "statistical models trained on data" — technically a linear regression fits that definition — but I can live with it. The screening tool should help in practice.
+Legally sound. I'd have preferred more precise language around "statistical models trained on data" (technically a linear regression fits that definition) but I can live with it. The screening tool should help in practice.
 
 **Participant D:** OBJECT
 The environmental dimension is missing entirely. The vendor disclosure form should include energy consumption and carbon impact as a standard field. This was discussed extensively in Deliberate and multiple participants supported it. I cannot consent to guidelines that ignore the environmental cost of AI procurement.
@@ -29,7 +29,7 @@ The environmental dimension is missing entirely. The vendor disclosure form shou
 Specifically, I need the following change: add "estimated energy consumption or carbon impact per unit of use" to the list of items in the standardised AI disclosure form. If this is added, I would move to consent.
 
 > **Participant A:**
-> I think this is a reasonable addition. It's one field on a disclosure form. Vendors who can't answer it can say "not measured" — that's informative in itself, as Participant D pointed out during Deliberate.
+> I think this is a reasonable addition. It's one field on a disclosure form. Vendors who can't answer it can say "not measured" (that's informative in itself, as Participant D pointed out during Deliberate).
 >
 > **Participant B:**
 > Agreed, this shouldn't be controversial. Adding it doesn't create burden and addresses a legitimate concern.
@@ -51,4 +51,4 @@ I still think vendor accountability should be stronger, but the disclosure requi
 **Participant I:** CONSENT
 The GDPR alignment is implicit rather than explicit, which I'd prefer, but the scope is broad enough to cover data protection scenarios.
 
-**Participant J:** [no response — default consent]
+**Participant J:** [no response (default consent)]

@@ -233,7 +233,7 @@ incompatible views and letting the Decide mechanism handle it.
 
 ## Activity file format: `deliberate-activity.md`
 
-The facilitator should maintain a single file with all Deliberate activity for the current section. This file grows with each round — append new rounds, do not remove previous ones.
+The facilitator should maintain a single file with all Deliberate activity for the current section. This file grows with each round (append new rounds, do not remove previous ones).
 
 Responses are grouped under each candidate preference, using nested quoting to show conversation threads where participants respond to each other.
 
@@ -301,14 +301,14 @@ Key formatting notes:
 
 - Each round starts with the candidate preference text, then
   all participant responses grouped under it
-- Paste participant responses as-is from email threads — the
+- Paste participant responses as-is from email threads (the
   AI will extract ratings, sentiments, and positions from the
-  natural text
+  natural text)
 - Use nested `>` quoting to show conversation threads (email
   reply-style indentation)
 - If a participant responds multiple times (e.g. changing
   their mind after reading others), include all responses in
   chronological order using nested quoting
 - Use the same participant letters consistently across all
-  rounds — the same person is always the same letter
+  rounds (the same person is always the same letter)
 - Never use real names or email addresses

@@ -224,7 +224,7 @@ decision on whether to proceed.
 
 ## Response file format: `discover-responses.md`
 
-The facilitator should maintain a single file with all Discover responses for the current section, structured as follows. This file grows with each round — append new rounds, do not remove previous ones.
+The facilitator should maintain a single file with all Discover responses for the current section, structured as follows. This file grows with each round (append new rounds, do not remove previous ones).
 
 ```markdown
 # Discover Responses — [Section Name]
@@ -277,5 +277,5 @@ together, making it easier for the AI to identify patterns of
 agreement and disagreement on each topic.
 
 Use "Participant A", "Participant B", etc. consistently across
-all rounds — the same person should always be the same letter.
+all rounds (the same person should always be the same letter).
 Never use real names or email addresses.
