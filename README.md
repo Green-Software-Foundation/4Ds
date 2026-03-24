@@ -20,7 +20,7 @@
 
 ## How the foundation makes decisions
 
-The Green Software Foundation is a consortium of 70+ member organisations developing standards, tooling, and best practices for software with zero harmful environmental effects. Standards are different to open source in one critical way: in open source, if there's a disagreement, you fork the project, implement your changes, and let adoption decide the winner. That's fine. But in standards, a fork is a disaster. If a portion of the group disagrees and creates their own version, you don't have two standards. You have zero standards. The entire value of a standard is that everyone agrees to use it.
+The [Green Software Foundation](https://greensoftware.foundation) is a consortium of 70+ member organisations developing [standards](https://greensoftware.foundation/standards/), tooling, and best practices for software with zero harmful environmental effects. Standards are different to open source in one critical way: in open source, if there's a disagreement, you fork the project, implement your changes, and let adoption decide the winner. That's fine. But in standards, a fork is a disaster. If a portion of the group disagrees and creates their own version, you don't have two standards. You have zero standards. The entire value of a standard is that everyone agrees to use it.
 
 So the foundation's consensus process is designed to get genuine agreement, not just majority approval. Here's roughly how it works.
 
@@ -52,7 +52,7 @@ In early 2025, we realised something had changed. AI was moving so fast that our
 
 We started exploring using AI to help with the facilitation process itself. This is actually a well-researched field of study. It sits within social choice theory, and more specifically within what's now called generative social choice theory, which looks at how AI can assist in aggregating preferences and finding consensus positions across groups.
 
-We combined AI facilitation with a new format we call **assemblies**, and the result was a significant evolution in how standards can be developed. The 4Ds process is the result of a year of running these AI-facilitated assemblies.
+We combined AI facilitation with a new format we call **[assemblies](https://greensoftware.foundation/assemblies/)**, and the result was a significant evolution in how standards can be developed. The 4Ds process is the result of a year of running these AI-facilitated assemblies.
 
 This guide documents the current best knowledge we have about the process. It's written to be technology-agnostic. It's not locked into any particular AI model or platform. We have our own tooling and may release it in the future, but the most important thing right now is to release the process itself so that anyone who wants to mirror it can do so.
 
